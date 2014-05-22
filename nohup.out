@@ -1,0 +1,3 @@
+[2014-05-21 21:43:23] INFO  WEBrick 1.3.1
+[2014-05-21 21:43:23] INFO  ruby 2.1.1 (2014-02-24) [i686-linux]
+[2014-05-21 21:43:23] INFO  WEBrick::HTTPServer#start: pid=13297 port=3000
